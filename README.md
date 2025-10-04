@@ -28,28 +28,6 @@
 
 ---
 
-## 💼 Professional Experience
-
-```typescript
-const experience = {
-  current: {
-    role: "Tech Lead",
-    company: "Dealbuddy",
-    period: "Jun 2024 - Present",
-    stack: ["NestJS", "AWS ECS", "Terraform", "PostgreSQL", "Redis", "Kafka"],
-    achievement: "100K+ concurrent users"
-  },
-  previous: [
-    "Tech Lead @ Deltasoft (WebRavo CMS)",
-    "Senior Engineer @ Copado (Billing Systems)",
-    "Tech Lead @ Naico ITS (Logistics Platform)",
-    "Senior Developer @ Charmboard (Zee5 OTT)",
-    "Developer @ AssetTrackr (IoT Dashboards)"
-  ],
-  totalCompanies: 7,
-  yearsOfExperience: 10
-};
-```
 
 ---
 
