@@ -21,7 +21,6 @@
 
 - 🏗️ Expert in **Node.js/TypeScript** ecosystem and event-driven microservices
 - ☁️ Specialized in **AWS Serverless/Containerization** (EKS, Lambda, ECS)
-- 🌍 Based in **Dubai, UAE**
 - 🎯 Currently: **Tech Lead @ Dealbuddy** architecting systems for 100K+ users
 - 📚 Framework Author: **nest-clean-arch** for Clean Architecture in NestJS
 - 🤖 Building AI-powered tools for code review and finance automation
